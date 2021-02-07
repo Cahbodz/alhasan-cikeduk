@@ -1,0 +1,109 @@
+html{
+	position: relative;
+}
+
+.portfolio{
+	background-color: #aaaa; 
+}
+.kontak{
+	margin-top: 20px;
+	
+}
+body{
+	margin-bottom: 100px;
+}
+hr{
+	width: 40%;
+}
+
+section{
+	min-height: 300px;
+}
+a img{
+	margin-bottom: 30px;
+}
+
+.kontak{
+	min-height: 500px;
+}
+footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	color: #aaaa;
+}
+
+footer p{
+margin-top: 30px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+#more {display: none;}
+.row .galery{
+	border: 1px solid;
+}
+.portfolio h1{
+	margin-top: 50px;
+}
+.portfolio a img{
+	margin-top: 60px;	
+	color: black;
+}
+.portfolio a{
+	text-decoration: none;
+}
+.kontak{
+	height: 100%;
+	width: 100%;
+}
+.kontak h1{
+	margin-top: 50px;
+ 
+	 
+}
+.kontak  img{
+	 
+	margin-top: 50px;
+	margin-right: 30px;
+	height: 100%;
+	width: 100%;
+	 
+}
+.kontak a{
+	text-decoration: none;
+}
+.kontak a:hover{
+	background-color: #aaa;
+}
+.kontak img:hover{
+	border-radius: 20px;
+}
+
+.kontak hr{
+	margin-bottom: 40px;
+}
+ .about{
+ 	margin-bottom: 50px;
+ }
+.about .paket1{
+	height: 350px;
+	width: 70%;
+	color: green;
+	background-color: #aaaa;
+	margin-bottom: 50px;
+	text-align: left;
+	margin-top: 50px;
+	font-size: 15px;
+}
+.about .paket1:hover{
+	background-color: #ddcd;
+
+}
+.about .paket1 a{
+	text-decoration: none;
+}
